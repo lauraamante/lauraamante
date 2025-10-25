@@ -23,4 +23,4 @@
   </a>
 
 </details>
-![Animação de cobra](https://raw.githubusercontent.com/Engenheirodg/Engenheirodg/main/github-contribution-grid-snake.svg)
+![Animação de cobra](https://raw.githubusercontent.com/lauraamante/lauraamante/main/github-contribution-grid-snake.svg)

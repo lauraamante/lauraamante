@@ -23,4 +23,4 @@
   </a>
 
 </details>
-![Animação de cobra](https://raw.githubusercontent.com/lauraamante/lauraamante/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lauraamante/lauraamante/output/snake.svg)

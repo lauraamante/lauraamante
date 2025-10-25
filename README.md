@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary> Contact me! </summary>
+  <summary> <h3>Contact me! </h3> </summary>
 
   <br>
 

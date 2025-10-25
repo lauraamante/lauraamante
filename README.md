@@ -25,4 +25,3 @@
   </a>
 
 </details>
-![Snake animation](https://raw.githubusercontent.com/lauraamante/lauraamante/output/snake.svg)

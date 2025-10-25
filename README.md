@@ -1,8 +1,26 @@
-# Laura Amante🌼
-### Hi! I'm an Information Systems student exploring the world of Python programming & SQL. I'm passionate about creating efficient solutions and continuously improving my skills in database and software development.
+# Hi, there!🎀
+### I'm an Information Systems student exploring the world of Python programming & SQL. I'm passionate about creating efficient solutions and continuously improving my skills in database and software development.
 
 ![SQL](https://img.shields.io/badge/SQL-F7C6D9?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white)
 
+
+<details>
+  <summary> Contact me</summary>
+
+  <br>
+
+  <a href="mailto:lauraoliveira.amante@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/laura-amante/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  </a>
+
+</details>
+![Animação de cobra](https://raw.githubusercontent.com/Engenheirodg/Engenheirodg/main/github-contribution-grid-snake.svg)

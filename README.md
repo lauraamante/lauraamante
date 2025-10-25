@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary> Contact me</summary>
+  <summary> Contact me! </summary>
 
   <br>
 

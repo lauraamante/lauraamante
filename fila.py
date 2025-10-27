@@ -12,7 +12,7 @@ class Fila:
     def desenfileirar(self):
         if not self.esta_vazia():
             item = self.items.pop(0)
-            print(f"Elemento '{item}' removido da fila.")
+            print(f"Elemento '{item}' removido da fila.") 
             return item
         else:
             print("A fila está vazia.")

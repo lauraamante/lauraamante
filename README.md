@@ -8,6 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white)
 
+## 
 
 <details>
   <summary> <h3>Contact me! </h3> </summary>

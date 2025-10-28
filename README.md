@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=cpp&logoColor=white)
+![CPP](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=cpp&logoColor=white)
 
 ## 
 

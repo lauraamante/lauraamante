@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=C&logoColor=white)
 [![C++](https://img.shields.io/badge/C%2B%2B-F7C6D9?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+![Javascript](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 
 

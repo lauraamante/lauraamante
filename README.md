@@ -3,6 +3,7 @@
 
 ### Always exploring new tools and improving my skills 🚀
 
+
 ![SQL](https://img.shields.io/badge/SQL-F7C6D9?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)

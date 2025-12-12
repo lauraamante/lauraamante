@@ -1,7 +1,6 @@
 <div align="center">
   
 ![Header](./github-header-banner.png)
-A Data & Analytics enthusiast  
 
 🎓 Information Systems Student at UDESC  
 📊 Data Analytics • Databases • Data Science

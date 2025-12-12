@@ -1,6 +1,5 @@
 <div align="center">
   
-# Hi, there! I'm Laura🎀   
 ![Header](./github-header-banner.png)
 A Data & Analytics enthusiast  
 

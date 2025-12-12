@@ -57,7 +57,7 @@ My academic experience includes:
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/laura-amante" target="_blank"> <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> </a> 
-<a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank" style="margin-left: 12px;">
+<a href="https://instagram.com/amanteelaura" target="_blank" style="margin-left: 12px;">
   <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
 </a>
 

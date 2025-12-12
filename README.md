@@ -1,34 +1,80 @@
-# Hi, there!🎀
-### I'm an Information Systems student exploring the world of Python programming & SQL. I'm passionate about creating efficient solutions and continuously improving my skills in database and software development.
+<div align="center">
+  
+# Hi, there! 🎀 I'm Laura   
+![Header](./github-header-banner.png)
+A Data & Analytics enthusiast  
+
+🎓 Information Systems Student at UDESC  
+📊 Data Analytics • Databases • Data Science
+
+<br>
+
+</div>
+
+---
+
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraamante&show_icons=true)](https://github.com/lauraamante)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraamante&layout=compact)](https://github.com/lauraamante)
+
+
+
     
-### Always exploring new tools and improving my skills 🚀        
+### 👩‍💻 About Me  
+I'm an Information Systems student passionate about **data**, **mathematical reasoning**, and **analytical problem-solving**.  
+My academic experience includes:
 
+- 🧮 Teaching Assistant for **Mathematics I**  
+- 🔍 Research and academic interest in **Operating Systems & Memory Management**  
+- 🖥️ 1+ year teaching **Computer Literacy** through an extension program  
+- 📈 Growing focus on **Data Analytics**, **SQL**, **Statistical Modeling**, and **Python for Data Science**
 
-![SQL](https://img.shields.io/badge/SQL-F7C6D9?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F7C6D9?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F7C6D9?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-F7C6D9?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-F7C6D9?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Javascript](https://img.shields.io/badge/JS-F7C6D9?style=for-the-badge&logo=javascript&logoColor=white)
+---
 
-## 
-   
-<details>
-  <summary> <h3>Contact me! </h3> </summary>
+### 🚀 What I'm Currently Working On  
+- 📊 Improving advanced SQL querying and optimization  
+- 🐍 Building data-driven Python projects  
+- 🧠 Strengthening foundations in statistics and analytical thinking  
+- 📝 Exploring research topics in systems performance and data-driven simulations  
 
-  <br>
+---
 
-  <a href="mailto:lauraoliveira.amante@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### 🧩 Topics I Love  
+  Databases,
+  SQL,
+  Python,
+  Statistics,
+  Data Analytics,
+  Operating Systems,
+  Machine Learning (Foundations)
 
-  <a href="https://www.linkedin.com/in/laura-amante/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  </a>
+### 📚 Projects and Academic Work
+- Data Structures Implementations (lists, stacks, queues, linked structures)
+- OS Memory Management Simulations (paging, segmentation, partitions)
+- Analytics Exercises & SQL Case Studies
+- Algorithmic Thinking Study Notebooks
 
-  
+### 🛠️ Languages & Tools
+<div> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> </div>
 
-</details>
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/laura-amante" target="_blank"> <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> </a> 
+<a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank" style="margin-left: 12px;">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+</a>
+
+## ✨ More About Me
+🧮 I enjoy mathematical problem-solving
+
+📖 Always studying SQL, Python, and data science fundamentals
+
+🎯 Focused on building a strong academic and analytical background
+
+☕ Powered by coffee and curiosity
+
+<div align="center">
+
+## 💫 Thanks for stopping by! Explore my repositories and feel free to connect.
+## ⭐ If you like something, consider leaving a star!
+
+</div> ```

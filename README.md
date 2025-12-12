@@ -72,7 +72,6 @@ My academic experience includes:
 
 <div align="center">
 
-## 💫 Thanks for stopping by! Explore my repositories and feel free to connect.
-## ⭐ If you like something, consider leaving a star!
+### 💫 Thanks for stopping by! Explore my repositories and feel free to connect.
 
 </div> 

@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](./image2.png)
+![Header](./image6.png)
 
 🎓 Information Systems Student at UDESC  
 📊 Data Analytics • Databases • Data Science

@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](./github-header-banner.png)
+![Header](./image2.png)
 
 🎓 Information Systems Student at UDESC  
 📊 Data Analytics • Databases • Data Science

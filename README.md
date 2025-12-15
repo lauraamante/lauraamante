@@ -47,7 +47,7 @@ My academic experience includes:
 
 ### 📚 Projects and Academic Work
 - Data Structures Implementations (lists, stacks, queues, linked structures)
-- OS Memory Management Simulations (paging, segmentation, partitions)
+- OS Memory Management Simulations (paging, segmentation, partitions)  
 - Analytics Exercises & SQL Case Studies
 - Algorithmic Thinking Study Notebooks
 

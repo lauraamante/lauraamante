@@ -74,4 +74,6 @@ My academic experience includes:
 
 ### 💫 Thanks for stopping by! Explore my repositories and feel free to connect.💫
 
+<img src="./octocat-1765830084302.png" height="120" />
+
 </div> 

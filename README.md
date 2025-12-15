@@ -28,7 +28,7 @@ My academic experience includes:
 
 ---
 
-### 🚀 What I'm Currently Working On  
+### What I'm Currently Working On  
 - 📊 Improving advanced SQL querying and optimization  
 - 🐍 Building data-driven Python projects  
 - 🧠 Strengthening foundations in statistics and analytical thinking  
@@ -36,7 +36,7 @@ My academic experience includes:
 
 ---
 
-### 🧩 Topics I Love  
+### Topics I Love  
   Databases,
   SQL,
   Python,
@@ -45,7 +45,7 @@ My academic experience includes:
   Operating Systems,
   Machine Learning (Foundations)
 
-### 📚 Projects and Academic Work
+### Projects and Academic Work
 - Data Structures Implementations (lists, stacks, queues, linked structures)
 - OS Memory Management Simulations (paging, segmentation, partitions)  
 - Analytics Exercises & SQL Case Studies
@@ -72,6 +72,6 @@ My academic experience includes:
 
 <div align="center">
 
-### 💫 Thanks for stopping by! Explore my repositories and feel free to connect.
+### 💫 Thanks for stopping by! Explore my repositories and feel free to connect.💫
 
 </div> 

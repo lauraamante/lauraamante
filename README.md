@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](./image8.gif)
+![Header](./image8.gif)  
 
 🎓 Information Systems Student at UDESC  
 📊 Data Analytics • Databases • Data Science

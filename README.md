@@ -22,7 +22,6 @@ I'm an Information Systems student passionate about **data**, **mathematical rea
 My academic experience includes:
 
 - 🧮 Teaching Assistant for **Mathematics I**  
-- 🔍 Research and academic interest in **Operating Systems & Memory Management**  
 - 🖥️ 1+ year teaching **Computer Literacy** through an extension program  
 - 📈 Growing focus on **Data Analytics**, **SQL**, **Statistical Modeling**, and **Python for Data Science**
 

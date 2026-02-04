@@ -17,7 +17,7 @@
 
 
     
-### 👩🏻‍💻 About Me 
+### 👩🏻‍💻 About Me  
 I'm an Information Systems student passionate about **data**, **mathematical reasoning**, and **analytical problem-solving**.  
 My academic experience includes:
 

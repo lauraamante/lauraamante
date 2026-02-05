@@ -4,7 +4,7 @@
 
 🎓 Information Systems Student at UDESC   
 📊 Data Analytics • Databases • Data Science
-
+ 
 <br>
 
 </div>

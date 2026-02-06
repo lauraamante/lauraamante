@@ -12,8 +12,8 @@
 ---
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraamante&show_icons=true)](https://github.com/lauraamante)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraamante&layout=compact)](https://github.com/lauraamante)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraamante&layout=compact)](https://github.com/lauraamante)
 
 
     
